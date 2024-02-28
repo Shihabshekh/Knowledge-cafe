@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/3RzxSg8/Adobe-Stock-630374127-Preview.jpg",
+      "title": "The Enigmatic Echoes",
+      "author": "Samantha Green",
+      "author_img": "https://i.ibb.co/MG6WQ6T/Adobe-Stock-431647519-Preview.jpg",
+      "posted_date": "February 15, 2024",
+      "reading_time": 5,
+      "hashtags": ["#Mystery", "#Adventure", "#Suspense"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/SB2jqwv/Adobe-Stock-631315523-Preview.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Michael Reynolds",
+      "author_img": "https://i.ibb.co/dMGF9Gw/Adobe-Stock-460918802-Preview.jpg",
+      "posted_date": "March 3, 2024",
+      "reading_time": 6,
+      "hashtags": ["#SciFi", "#Exploration", "#Future"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/cTm3HDs/Adobe-Stock-680149024-Preview.jpg",
+      "title": "Symphony of Shadows",
+      "author": "Alexander Blackwood",
+      "author_img": "https://i.ibb.co/NTHnN69/Adobe-Stock-73498609-Preview.jpg",
+      "posted_date": "January 28, 2024",
+      "reading_time": 4,
+      "hashtags": ["#Fantasy", "#Magic", "#Epic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/6rwFxXW/Adobe-Stock-680565957-Preview.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Emily Clarke",
+      "author_img": "https://i.ibb.co/CQZ6gdQ/Adobe-Stock-602809556-Preview.jpg",
+      "posted_date": "February 10, 2024",
+      "reading_time": 12,
+      "hashtags": ["#Romance", "#TimeTravel", "#Destiny"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/W3B03ph/Adobe-Stock-692052109-Preview.jpg",
+      "title": "Shattered Realms",
+      "author": "Daniel Smith",
+      "author_img": "https://i.ibb.co/KDxBFhC/Adobe-Stock-370298969-Preview.jpg",
+      "posted_date": "March 18, 2024",
+      "reading_time": 8,
+      "hashtags": ["#Dystopia", "#Survival", "#Apocalypse"]
+    }
+  ]
+  
